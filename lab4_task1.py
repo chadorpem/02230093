@@ -1,3 +1,4 @@
+#implemented by partner 1(chador pem)
 class ArrayQueue:
     def __init__(self, capacity=10):
         # Private array to store elements
