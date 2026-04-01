@@ -3,7 +3,6 @@ class ArrayQueue:
     def __init__(self, capacity=10):
         # Private array to store elements
         self._data = [None] * capacity
-        
         # Variables to track front and rear
         self._front = 0
         self._rear = -1
