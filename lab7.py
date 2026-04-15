@@ -1,6 +1,6 @@
 #task 1
 # Node Class
-'''class Node:
+class Node:
     def __init__(self, value):
         self.value = value      
         self.left = None        
@@ -15,7 +15,7 @@ class BinaryTree:
 # Example Usage
 tree = BinaryTree()
 print("Created new Binary Tree")
-print("Root:", tree.root)'''
+print("Root:", tree.root)
 #Task 2
 # Node Class
 class Node:
